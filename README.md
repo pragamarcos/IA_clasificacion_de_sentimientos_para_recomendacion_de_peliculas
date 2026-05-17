@@ -1,4 +1,4 @@
-# Sistema Inteligente de Clasificación de Sentimientos para Recomendación de Películas
+# IMDB Sentiment Classification with Deep Learning
 
 > Proyecto Final - Data Science III | Coderhouse
 > 
