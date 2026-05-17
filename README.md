@@ -194,41 +194,6 @@ Distribución:
 
 ---
 
-## 📁 Estructura del Repositorio
-
-```
-sentiment-analysis-imdb/
-│
-├── README.md
-├── requirements.txt
-│
-├── notebook/
-│   └── Trabajo_Final_Data_science_III.ipynb
-│
-├── codigo/
-│   └── Codigo_Completo_Notebook.txt
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── vectorization.py
-│   ├── model.py
-│   └── training.py
-│
-├── results/
-│   ├── metrics.json
-│   ├── confusion_matrix.png
-│   └── training_history.png
-│
-└── documentation/
-    ├── PRESENTACION_EJECUTIVA.md
-    └── ANALISIS_TECNICO.md
-```
-
----
 
 ## 🚀 Cómo Ejecutar
 
